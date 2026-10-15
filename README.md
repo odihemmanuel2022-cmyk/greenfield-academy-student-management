@@ -38,4 +38,5 @@ Future Improvements
 
 Project Status
 
-Portfolio project built to demonstrate practical Notion system design skills.
+
+
